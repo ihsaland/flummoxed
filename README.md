@@ -9,7 +9,6 @@ A modern web application for daily brain teasers and maze challenges. Built with
 - Community leaderboard
 - User authentication and profiles
 - Admin dashboard for content management
-- Deployed on GitHub Pages
 
 ## Tech Stack
 
